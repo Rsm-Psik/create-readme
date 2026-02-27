@@ -31,8 +31,3 @@ Test2
 ### Features <img src="https://cdn-icons-png.flaticon.com/128/4562/4562625.png" width="20" />
 - **Test** - Test!
 
-<a name="Participant"></a>
-### Participant <img src="https://cdn-icons-png.flaticon.com/128/2118/2118701.png" width="20" />
-- **Rsm-Psik** - https://github.com/Rsm-Psik
-- **Masik-Nobibi** - https://github.com/Masik-Nobibi
-
