@@ -12,7 +12,7 @@
   <i>wave Созданый На Rust</i>+
   
   <br />
-  <b>Быстрый • Минималистичный • Безопасный • Open Source</b>
+  <b>Test1 • Test2 • Test3</b>
 </p>
 
 ---
@@ -29,4 +29,4 @@ Test2
 ```
 <a name="Features"></a>
 ### Features <img src="https://cdn-icons-png.flaticon.com/128/4562/4562625.png" width="20" />
-- **Fast** - Быстро работает!
+- **Test** - Test!
